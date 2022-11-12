@@ -1,0 +1,60 @@
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form1.resources
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form2.resources
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form3.resources
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form4.resources
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.exe
+C:\Users\Hp\source\repos\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.deps.json
+C:\Users\Hp\source\repos\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.runtimeconfig.json
+C:\Users\Hp\source\repos\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.dll
+C:\Users\Hp\source\repos\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.pdb
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.dll
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\refint\Project_1.dll
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.pdb
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Project_1\Project_1\obj\Debug\net6.0-windows\ref\Project_1.dll
+D:\Downloadss\Project_1\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.exe
+D:\Downloadss\Project_1\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.deps.json
+D:\Downloadss\Project_1\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.runtimeconfig.json
+D:\Downloadss\Project_1\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.dll
+D:\Downloadss\Project_1\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.pdb
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.AssemblyReference.cache
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form1.resources
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form2.resources
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form3.resources
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form4.resources
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.GenerateResource.cache
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.AssemblyInfoInputs.cache
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.AssemblyInfo.cs
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.CoreCompileInputs.cache
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.dll
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\refint\Project_1.dll
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.pdb
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.genruntimeconfig.cache
+D:\Downloadss\Project_1\Project_1\Project_1\obj\Debug\net6.0-windows\ref\Project_1.dll
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form1.resources
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form2.resources
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form3.resources
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.Form4.resources
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.AssemblyInfo.cs
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.dll
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\refint\Project_1.dll
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.pdb
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.exe
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.deps.json
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.runtimeconfig.json
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.dll
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\bin\Debug\net6.0-windows\Project_1.pdb
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\Project_1.genruntimeconfig.cache
+C:\Users\Hp\Downloads\Project_1-m (1)\Project_1\Project_1\obj\Debug\net6.0-windows\ref\Project_1.dll
